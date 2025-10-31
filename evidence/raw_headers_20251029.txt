@@ -1,1 +1,23 @@
 
+HTTP/1.1 302 Found
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Date: Tue, 28 Oct 2025 19:03:40 GMT
+Server: AtlassianEdge
+Timing-Allow-Origin: *
+X-Arequestid: e2a1f924adb7d0285ecfd2637b96e27c
+Location: https://bugbounty-test-xivks.atlassian.net/login.jsp?os_destination=https%3A%2F%2Fbugbounty-test-xivks.atlassian.net%2F
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Atl-Traceid: 011967c28df14a6cbf0ac8b11adb4777
+Atl-Request-Id: 011967c2-8df1-4a6c-bf0a-c8b11adb4777
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Report-To: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
+Nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
+X-Cache: Miss from cloudfront
+Via: 1.1 f4324e038e583125d487861fc61e4744.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA50-P2
+X-Amz-Cf-Id: MAWEd-7m-aGBu5C-UvKzFGR-G1hQ7MKagzPRrVESlwT2uewqVYQB7A==
+Server-Timing: cdn-upstream-layer;desc="EDGE",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=16,cdn-upstream-fbl;dur=789,atl-edge;dur=720,atl-edge-internal;dur=74,atl-edge-upstream;dur=646,atl-edge-pop;desc="aws-ap-south-1",cdn-cache-miss,cdn-pop;desc="MAA50-P2",cdn-rid;desc="MAWEd-7m-aGBu5C-UvKzFGR-G1hQ7MKagzPRrVESlwT2uewqVYQB7A==",cdn-downstream-fbl;dur=792
+
